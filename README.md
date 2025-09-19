@@ -29,16 +29,16 @@ $ cat learning.txt
 <pre>
 $ ls tech-stack
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" alt="Languages" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frameworks" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git,linux,figma,nvim" alt="Tools" height="40"/>
-  
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,git,linux,figma,nvim" alt="Tech Stack" height="40"/>
 </pre>
 
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=frost-rvl&show_icons=false&theme=transparent" />
+<p align="left">Contact me :</p>
+<div align="left">
+  
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/voaryluciano)
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/voaryluciano)
+  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/voaryluciano)
 </div>
-
 
 
 
