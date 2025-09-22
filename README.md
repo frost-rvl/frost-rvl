@@ -25,7 +25,7 @@ $ cat learning.txt
 <pre>
 $ ls tech-stack
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,git,linux,figma,nvim" alt="Tech Stack" height="60"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,webpack,bash,flutter,react,tailwind,godot,git,linux,figma,neovim" alt="Tech Stack" height="60"/>
 </pre>
 
 <p align="left">Contact me :</p>
