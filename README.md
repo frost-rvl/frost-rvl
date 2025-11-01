@@ -28,7 +28,7 @@ $ ls tech-stack
 <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,webpack,bash,react,tailwind,git,linux,figma,neovim" alt="Tech Stack" height="60"/>
 </pre>
 
-<p align="left">Contact me :</p>
+<p align="left">Reach me :</p>
 <div align="left">
   
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/voary-luciano-randriaparany-4090892b2)
