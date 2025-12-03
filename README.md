@@ -32,8 +32,6 @@ $ ls tech-stack
 <div align="left">
   
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/voary-luciano-randriaparany-4090892b2)
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/voary.luciano)
-</div>
 
 
 
