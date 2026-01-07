@@ -1,32 +1,12 @@
 <pre>
-$ whoami
 <picture> <source srcset="./ascii-art-text-dark.png" media="(prefers-color-scheme: dark)"/> <source srcset="./ascii-art-text-light.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-<img alt="Voary Luciano"/> </picture>
-$ alias frost-rvl="voaryluciano" 
+<img alt="Voary Luciano"/></picture>
 </pre>
 
 <pre>
-$ cat motto.txt
-┗━ I like building stuff!
-</pre>
-
-<pre>
-$ cat about-me.txt
-┗━ I'm a CS Student at ENSA Tangier, Morocco
-
-$ cat working-on.txt
+Working-on :
 ┗━ <a href="https://github.com/frost-rvl/BattleShip">BattleShip</a>
 ┗━ <a href="#">Regex Engine [Private]</a>
-   
-$ cat learning.txt
-┗━ <a href="https://www.learncpp.com/">C++</a>
-┗━ <a href="https://www.theodinproject.com/paths/full-stack-javascript">JavaScript</a>
-</pre>
-
-<pre>
-$ ls tech-stack
-   
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,py,js,html,css" height="60"/>
 </pre>
 
 
