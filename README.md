@@ -5,7 +5,6 @@
 
 <pre>
 Working-on :
-┗━ <a href="https://github.com/frost-rvl/BattleShip">BattleShip</a>
 ┗━ <a href="#">Regex Engine [Private]</a>
 </pre>
 
